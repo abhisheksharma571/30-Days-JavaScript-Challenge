@@ -1,0 +1,16 @@
+{
+  "name": "using-parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel build src/index.js --dist-dir dist",
+    "start": "parcel src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
