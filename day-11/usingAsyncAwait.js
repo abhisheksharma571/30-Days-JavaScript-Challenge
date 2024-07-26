@@ -37,3 +37,4 @@ async function handleRejectedPromise(){
     }
 }
 handleRejectedPromise();
+
